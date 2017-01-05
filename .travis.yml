@@ -1,5 +1,6 @@
 language: java
 script: ant main
+os: aix
 JDK:
   - oraclejdk8
   - oraclejdk7
