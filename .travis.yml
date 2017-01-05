@@ -1,4 +1,6 @@
 language: java
 script: ant main
 JDK:
- - openJKD8
+  - oraclejdk8
+  - oraclejdk7
+  - openjdk6
